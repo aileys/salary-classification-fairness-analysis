@@ -25,15 +25,10 @@ The data consists of CSV files with features such as:
 - `native-country`
 - `y` – target label indicating whether income is above or below a threshold
 
-Example files (stored in `data/`):
+Files (stored in `data/`):
 
 - `salary_test_data_male.csv`
 - `salary_test_data_female.csv`
-- `salay_data_Amer-Indian-Eskimo.csv`
-- `salay_data_Asian-Pac-Islander.csv`
-- `salay_data_Black.csv`
-- `salay_data_White.csv`
-- `salay_data_Other.csv`
 
 > Note: File names and data structure are based on a course lab. Datasets are included only for educational purposes.
 
